@@ -14,15 +14,15 @@ import "fmt"
 	**																							 **
 	** 	This is one of the main concept of GO-Lang, which is uncommon from other languages		 **
 	**	GO-Lang we don't have the concept of class, it only have struct.				 		 **
-	**	This concept of Interface allows us to implement "Polymorphism & Abstraction"
-	**
-	**	"Key-Take-Away"
-	**		- A value can be of multiple type
-	**		- "Any type that has the method/function speak() is also a Species Type"
-			- In general terms, If any type has a function which have me is also my type
-			- Empty Interface [interface{}] used in Function parameter can accept anything
-				because all the types in GO-Lang will have an empty
-
+	**	This concept of Interface allows us to implement "Polymorphism & Abstraction"			 **
+	**																							 **
+	**	"Key-Take-Away"																			 **
+	**		- A value can be of multiple type													 **
+	**		- "Any type that has the method/function speak() is also a Species Type"			 **
+	**		- In general terms, If any type has a function which have me is also my type		 **
+	**		- Empty Interface [interface{}] used in Function parameter can accept anything		 **
+	**			because all the types in GO-Lang will have an empty								 **
+	**																							 **
 	***********************************************************************************************
 
 */
