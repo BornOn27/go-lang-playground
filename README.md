@@ -1,1 +1,1 @@
-# go-lang-training
+# go-lang-playground
